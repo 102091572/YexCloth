@@ -1,4 +1,4 @@
 {
   "membercloth": 20000,
-  "superchatcloth": 20
+  "superchatcloth": 69
 }
